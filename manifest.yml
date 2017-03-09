@@ -4,4 +4,4 @@ applications:
   path: target/Chatbot-0.0.1.war
   buildpack: liberty-for-java
   env:
-    CONVERSATION_WORKSPACE_ID: 19b84a16-6974-45bd-98ed-031114743dbc
+    CONVERSATION_WORKSPACE_ID: 76dcc6e5-7497-42f2-b5ff-c3d90ee33c5d
